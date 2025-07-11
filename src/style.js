@@ -1,6 +1,6 @@
 import { css } from "styled-components"
 
-export const fㅣexMixin = (
+export const flexMixin = (
     direction = `row`,
     justify = `start`,
     align = `stretch`,
